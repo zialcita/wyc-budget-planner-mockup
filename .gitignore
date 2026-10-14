@@ -1,0 +1,5 @@
+*.xlsx
+*.json
+*.csv
+index.plain.html
+.staticrypt.json
